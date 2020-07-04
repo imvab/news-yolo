@@ -1,0 +1,4 @@
+classes=4
+train=custom_data/train.txt
+names=custom_data/custom.names
+backup=backup/
